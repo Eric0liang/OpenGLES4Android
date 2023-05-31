@@ -5,4 +5,7 @@
 [点击下载](https://github.com/Eric0liang/OpenGLES4Android/raw/main/app-release-unsigned.apk)
 
 ## 效果: 
+<img src="https://github.com/Eric0liang/OpenGLES4Android/blob/main/184_1685518596.gif" width="400px"/>
 <img src="https://github.com/Eric0liang/OpenGLES4Android/blob/main/WechatIMG187.jpeg" width="400px"/>
+
+
