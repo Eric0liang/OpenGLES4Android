@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/gradient_drawable.xml" value="0.182" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.11041666666666666" />
+        <entry key="app/src/main/res/layout/i1.xml" value="0.32653985507246375" />
+        <entry key="app/src/main/res/layout/i9.xml" value="0.16927083333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
